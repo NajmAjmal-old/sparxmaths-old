@@ -5,23 +5,13 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
 Use a single install command. Paste into browser console. (This is temporary, But the Chrome Extension does this Automatically)
-<div style="position: relative;">
-  <button style="position: absolute; left: -9999px;" onclick="copyToClipboard('Text to copy')">Copy text</button>
-  Click <a href="#" onclick="document.querySelector('button').click(); return false;">here</a> to copy the text.
-</div>
 
-<!-- 
-<script>
-  function copyToClipboard(text) {
-    const el = document.createElement('textarea');
-    el.value = text;
-    document.body.appendChild(el);
-    el.select();
-    document.execCommand('copy');
-    document.body.removeChild(el);
-  }
-</script>
--->
+
+
+# Copy to Clipboard
+
+Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy text to clipboard.
+
 
 
 
