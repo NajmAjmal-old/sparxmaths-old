@@ -1,12 +1,11 @@
 {
     "manifest_version": 3,
-    "name": "Sparxamths Solver",
-    "version": "1.2",
+    "name": "Magic Notes",
+    "version": "3.1.0",
     "description": "Stores bookwork codes and has colour themes",
 
     "host_permissions": [
       "*://www.sparxmaths.uk/*",
-      "https://weydonschool.sparxmaths.uk/*",
       "https://auth.sparxmaths.uk/*"
     ],
   
@@ -18,7 +17,7 @@
       "default_icon": {
         "128": "logo.png"
       },
-      "default_title": "Sparxmaths Solver"
+      "default_title": "Sparx Extension"
     },
     
     "permissions": [
@@ -29,7 +28,7 @@
 
     "content_scripts": [
       {
-        "matches": ["*://www.sparxmaths.uk/*", "https://auth.sparxmaths.uk/*","https://weydonschool.sparxmaths.uk/*"],
+        "matches": ["*://www.sparxmaths.uk/*", "https://auth.sparxmaths.uk/*","*://weydonschool.sparxmaths.uk/*"],
         "js": ["contentScript.js"]
       }
     ],
@@ -40,3 +39,4 @@
     }]
   
   }
+  
