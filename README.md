@@ -12,6 +12,7 @@ Use a single install command. Paste into browser console. (This is temporary, Bu
 
 Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy text to clipboard.
 
+<iframe src="https://www.example.com" width="100%" height="500px"></iframe>
 
 
 
