@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Copy to Clipboard</title>
+</head>
+<body>
+  <button id="copyButton">Copy text</button>
+
+  <script>
+    const copyButton = document.querySelector('#copyButton');
+    copyButton.addEventListener('click', function() {
+      const textToCopy = 'Text to copy';
+      const el = document.createElement('textarea');
+      el.value = textToCopy;
+      document.body.appendChild(el);
+      el.select();
+      document.execCommand('copy');
+      document.body.removeChild(el);
+    });
+  </script>
+</body>
+</html>
