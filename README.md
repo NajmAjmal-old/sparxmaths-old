@@ -8,7 +8,7 @@ Use a single install command. Paste into browser console. (This is temporary, Bu
 *Whilst the extension is installed
 
 
-# Copy to Clipboard
+<h5>Copy to Clipboard</h5>
 
 Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy install command to clipboard.
 
