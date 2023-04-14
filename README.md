@@ -58,6 +58,7 @@ Install instructions
   <li>The extension should now appear in the Extensions tab, and you can use it as you normally would.</li>
 </ol>
 
+Note: To install the extension you need to go into the furthest folder. (In the "Load Unpacked" when you select the extension folder. You need to keep openning the folder, until you can't. )
 
 <p align='center'>
   <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 1.PNG">
