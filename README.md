@@ -21,7 +21,7 @@ Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy text to 
 
 - [Features](#features)
 - [Autosolve](#autosolve)
-- [Colour Themes](#colour-themes)
+- [Install](#install)
 - [Scripts](#scripts)
   * [Console](#console)
   * [Chrome Extension](#chrome-extension)
@@ -44,11 +44,10 @@ Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy text to 
 
 
 
-## Colour Themes
+## Install
 
-<p align="center">
-  <img width="100%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Home Page.PNG">
-</p>
+Install instructions
+
 <p align='center'>
   <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 1.PNG">
   <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 2.PNG">
