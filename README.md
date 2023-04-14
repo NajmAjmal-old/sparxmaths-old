@@ -22,9 +22,6 @@ Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy text to 
 - [Features](#features)
 - [Autosolve](#autosolve)
 - [Install](#install)
-- [Scripts](#scripts)
-  * [Console](#console)
-  * [Chrome Extension](#chrome-extension)
 - [Terms and Conditions](#terms-and-conditions)
 
 
@@ -48,6 +45,20 @@ Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy text to 
 
 Install instructions
 
+<ol>
+  <li>Go to the GitHub page of the Chrome extension you want to install.</li>
+  <li>Click the green "Code" button and select "Download ZIP" to download the extension's source code to your computer.</li>
+  <li>Extract the downloaded ZIP file to a convenient location on your computer, such as your desktop or documents folder.</li>
+  <li>Open Google Chrome on your Windows computer.</li>
+  <li>Click the three-dot menu icon in the top-right corner of the Chrome window and select "More tools" > "Extensions" from the drop-down menu.</li>
+  <li>In the Extensions tab, toggle on the "Developer mode" switch located in the top-right corner of the window.</li>
+  <li>Click the "Load unpacked" button in the top-left corner of the window.</li>
+  <li>Navigate to the folder where you extracted the extension's source code in step 3, and select it.</li>
+  <li>Click "Open" to install the extension.</li>
+  <li>The extension should now appear in the Extensions tab, and you can use it as you normally would.</li>
+</ol>
+
+
 <p align='center'>
   <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 1.PNG">
   <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 2.PNG">
@@ -68,15 +79,6 @@ Install instructions
   <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 9.PNG">
 </p>
 
-## Scripts
-
-#### Console
-
-1. This script works in the console.
-
-#### Chrome extension
-
-1. An unpacked Chrome extension which utilises chrome's storage API to hold sparx data.
 
 ## Terms and Conditions
 
