@@ -5,3 +5,5 @@ s.onload = function() {
 };
 
 (document.head || document.documentElement).appendChild(s);
+
+// The contentScipt.js is used by the manifest.json (Chrome extension info & permisions) to activate "inject.js"
