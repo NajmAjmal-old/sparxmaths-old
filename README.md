@@ -4,18 +4,15 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
-Use a single install command. Paste into browser console. (This is temporary, But the Chrome Extension does this Automatically)
-
+Use a single install command. Paste into browser console. (This is temporary, But the Chrome Extension is Permanent*)
+*Whilst the extension is installed
 
 
 # Copy to Clipboard
 
-Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy text to clipboard.
+Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy install command to clipboard.
 
 
-<p>
-<iframe src="https://www.example.com" width="100%" height="500px"></iframe>
-</p>
 
 
 
