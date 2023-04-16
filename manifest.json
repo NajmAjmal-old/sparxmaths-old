@@ -1,12 +1,11 @@
 {
     "manifest_version": 3,
     "name": "Sparxmaths Solver",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Stores bookwork codes and has colour themes",
 
     "host_permissions": [
-      "*://www.sparxmaths.uk/*",
-      "https://weydonschool.sparxmaths.uk/*",
+      "*://weydonschool.sparxmaths.uk/*",
       "https://auth.sparxmaths.uk/*"
     ],
   
@@ -30,7 +29,7 @@
 
     "content_scripts": [
       {
-        "matches": ["*://www.sparxmaths.uk/*", "https://auth.sparxmaths.uk/*","https://weydonschool.sparxmaths.uk/*"],
+        "matches": ["*://weydonschool.sparxmaths.uk/*", "https://auth.sparxmaths.uk/*"],
         "js": ["contentScript.js"]
       }
     ],
@@ -38,7 +37,7 @@
     "web_accessible_resources": [{
       "resources": ["inject.js"],
       "matches": ["<all_urls>"]
-    }]
-  
-  }
-  
+    }],
+
+    "content_security_policy": "script-src 'self' static.sparxmaths.uk https://raw.githubusercontent.com/ https://cdn.jsdelivr.net/; object-src 'self'"
+}
