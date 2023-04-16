@@ -4,40 +4,48 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
-Use a single install command. Paste into browser console. (This is temporary, But the Chrome Extension is Permanent*)
-*Whilst the extension is installed
-
-
-<h5>Copy to Clipboard</h5>
-
-Click [here](https://najmajmal.github.io/sparxmaths/index.html) to copy install command to clipboard.
-
-
-
-
 
 ## Table of Contents
 
 
-- [Features](#features)
-- [Autosolve](#autosolve)
+- [Features](#-features)
+- [Autosolve](#-autosolve)
 - [Install](#install)
 - [Terms and Conditions](#terms-and-conditions)
 
 
-## Features
+## ⚡ Quick setup
+
+1. Visit [copy button](https://najmajmal.github.io/sparxmaths/index.html) to copy install command to clipboard. and click the Copy button.
+2. Log in to Sparx Maths and open the **Developers Console** with _Ctrl + Shift + J_
+3. Paste the code in the Console and press _Enter_.
+4. Star the repo 😄
+
+> **Note** This is the temporary version of the program, download the [Chrome Extension](docs/install.md) to use it permanently.
+
+## ✨ Features
 
 - **9** different **colour themes**
 - **Stores answers** (so you don't need to write them down)
 - **Automatically** highlights the **correct** bookwork check answer
+- **Automatically** selects next task when pressing **Enter**
 - Works on **all** computers that allow **Inspect Element**
 - Can be used on **Android** (through Kiwi Browser)
 
-## Autosolve
+## 🎬 Autosolve
 
 <p align="center">
-  <img width="70%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Bookwork Code 6.PNG">
+  <img width="70%" src="https://github.com/alexlostorto/sparx/raw/main/.github/bookwork-code.png">
 </p>
+
+## 🖌 Colour Themes
+
+|    Theme     |                                    Preview                                    |
+| :----------: | :---------------------------------------------------------------------------: |
+|   `stone`    |  ![stone](https://github.com/alexlostorto/sparx/raw/main/.github/theme1.png)  |
+|  `boulder`   | ![boulder](https://github.com/alexlostorto/sparx/raw/main/.github/theme2.png) |
+|   `angel`    |  ![angel](https://github.com/alexlostorto/sparx/raw/main/.github/theme3.png)  |
+| More themes! |         **🎨 [See a list of all available themes](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/themes.md)**         |
 
 
 
@@ -57,28 +65,6 @@ Install instructions
   <li>Click "Open" to install the extension.</li>
   <li>The extension should now appear in the Extensions tab, and you can use it as you normally would.</li>
 </ol>
-
-Note: To install the extension you need to go into the furthest folder. (In the "Load Unpacked" when you select the extension folder. You need to keep openning the folder, until you can't. )
-
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 1.PNG">
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 2.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 3.PNG">
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 4.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 5.PNG">
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 6.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 7.PNG">
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 8.PNG">
-</p>
-<p align='center'>
-  <img width="49%" src="https://github.com/SintcoLTD/sparxmaths/raw/main/git-images/Sparx Theme 9.PNG">
-</p>
 
 
 ## Terms and Conditions
