@@ -21,7 +21,7 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 3. Paste the code in the Console and press _Enter_.
 4. Star the repo 😄
 
-> **Note** This is the temporary version of the program, download the [Chrome Extension](docs/install.md) to use it permanently.
+> **Note** This is the temporary version of the program, download the [Chrome Extension](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md) to use it permanently.
 
 ## ✨ Features
 
