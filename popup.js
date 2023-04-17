@@ -1,3 +1,36 @@
+document.querySelector('form').addEventListener('submit', function(event) {
+  event.preventDefault(); // Prevent form from submitting
+
+  // Get entered password from form input
+  const password = document.getElementById('password').value;
+
+  // Make a GET request to read password.txt file
+  const xhr = new XMLHttpRequest();
+  xhr.open('GET', 'password.txt', true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState === 4) {
+      if (xhr.status === 200) {
+        // Read password from file
+        const correctPassword = xhr.responseText.trim();
+        
+        // Check if entered password matches
+        if (password === correctPassword) {
+          // Send message to content script to continue script
+          chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+            chrome.tabs.sendMessage(tabs[0].id, {action: 'continueScript'});
+          });
+        } else {
+          alert('Incorrect password! Try again.');
+        }
+      } else {
+        alert('Error reading password file!');
+      }
+    }
+  };
+  xhr.send();
+});
+
+
 theme1 = document.querySelector('.theme-1');
 theme2 = document.querySelector('.theme-2');
 theme3 = document.querySelector('.theme-3');
