@@ -4,13 +4,13 @@ document.querySelector('form').addEventListener('submit', function(event) {
   // Get entered password from form input
   const password = document.getElementById('password').value;
 
-  // Make a GET request to read password.txt file
+  // Make a GET request to read password from online text file
   const xhr = new XMLHttpRequest();
-  xhr.open('GET', 'password.txt', true);
+  xhr.open('GET', 'https://example.com/password.txt', true); // Replace with your URL
   xhr.onreadystatechange = function() {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
-        // Read password from file
+        // Read password from response
         const correctPassword = xhr.responseText.trim();
         
         // Check if entered password matches
@@ -29,6 +29,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
   };
   xhr.send();
 });
+
 
 
 theme1 = document.querySelector('.theme-1');
