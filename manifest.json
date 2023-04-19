@@ -11,7 +11,7 @@
     ],
   
     "icons": {
-      "128": "logo.png"
+      "512": "logo.png"
     },
 
     "action": {
