@@ -16,7 +16,7 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 
 ## ⚡ Quick setup
 
-1. Visit [copy button](https://najmajmal.github.io/sparxmaths/index.html) to copy install command to clipboard. and click the Copy button.
+1. Visit [copy button](https://copy-button-for-sparx.glitch.me/) to copy install command to clipboard. and click the Copy button.
 2. Log in to Sparx Maths and open the **Developers Console** with _Ctrl + Shift + J_
 3. Paste the code in the Console and press _Enter_.
 4. Star the repo 😄
