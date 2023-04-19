@@ -64,6 +64,10 @@ Install instructions
   <li>Navigate to the folder where you extracted the extension's source code in step 3, and select it.</li>
   <li>Click "Open" to install the extension.</li>
   <li>The extension should now appear in the Extensions tab, and you can use it as you normally would.</li>
+  <li>Go to the Extensions tab in Chrome.</li>
+  <li>Find the extension you want to pin to the Chrome toolbar and click the pin icon next to it.</li>
+  <li>The extension should now appear in the Chrome toolbar.</li>
+  <li>Click on the Sparxmaths Solver Icon and enter the password.</li>
 </ol>
 
 
