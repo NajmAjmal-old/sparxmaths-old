@@ -23,6 +23,7 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 
 > **Note** This is the temporary version of the program, download the [Chrome Extension](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install.md) to use it permanently.
 
+
 ## ✨ Features
 
 - **9** different **colour themes**
