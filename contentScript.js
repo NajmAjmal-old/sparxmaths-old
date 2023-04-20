@@ -7,7 +7,7 @@ fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/spa
       alert(`Notification:\n\n${text}`);
     } else {
       // START FILE CHECK FOR PASSWORD
-      fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/PWD/version-contentScript-lock/1.2.txt')
+      fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.2/switch.txt')
         .then(response => response.text())
         .then(text => {
           if (text.includes('CHROME EXTENSION ENABLE')) {
