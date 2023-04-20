@@ -6,7 +6,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
 
   // Make a GET request to read password from online text file
   const xhr = new XMLHttpRequest();
-  xhr.open('GET', 'https://raw.githubusercontent.com/SintcoLTD/sparxmaths/main/console/password.txt', true); // Replace with your URL
+  xhr.open('GET', 'https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/PWD/password.txt', true); // Replace with your URL
   xhr.onreadystatechange = function() {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
@@ -54,7 +54,7 @@ document.addEventListener("click", function(e) {
 });
 
 aboutButton.addEventListener('click', function() {
-    const newURL = "https://google.com";
+    const newURL = "https://github.com/NajmAjmal";
         chrome.tabs.create({ url: newURL });
 });
 
