@@ -55,26 +55,26 @@ Welcome to **Sparxmaths Solver**, an extension designed to assist you with your 
 Install instructions
 
 <ol>
-  <li>Go to the GitHub page of the Chrome extension you want to install.</li>
-  <li>Click the green "Code" button and select "Download ZIP" to download the extension's source code to your computer.</li>
-  <li>Extract the downloaded ZIP file to a convenient location on your computer, such as your desktop or documents folder.</li>
-  <li>Open Google Chrome on your Windows computer.</li>
-  <li>Click the three-dot menu icon in the top-right corner of the Chrome window and select "More tools" > "Extensions" from the drop-down menu.</li>
-  <li>In the Extensions tab, toggle on the "Developer mode" switch located in the top-right corner of the window.</li>
-  <li>Click the "Load unpacked" button in the top-left corner of the window.</li>
-  <li>Navigate to the folder where you extracted the extension's source code in step 3, and select it.</li>
-  <li>Click "Open" to install the extension.</li>
+  <li>Go to the <b>GitHub</b> page of the <b>Chrome extension</b> you want to install.</li>
+  <li>Click the green <b>"Code"</b> button and select <b>"Download ZIP"</b> to download the extension's source code to your computer.</li>
+  <li><b>Extract</b> the downloaded ZIP file to a convenient location on your computer, such as your desktop or documents folder.</li>
+  <li>Open <b>Google Chrome</b> on your computer.</li>
+  <li>Click the <b>three-dot</b> menu icon in the <b>top-right corner</b> of the Chrome window and select <b>"More tools" > "Extensions"</b> from the <b>drop-down menu.</b></li>
+  <li>In the Extensions tab, toggle on the <b>"Developer mode"</b> switch located in the <b>top-right corner</b> of the window.</li>
+  <li>Click the <b>"Load unpacked"</b> button in the <b>top-left corner</b> of the window.</li>
+  <li>Navigate to the folder where you extracted the extension's source code in step 3, and <b>select</b> it.</li>
+  <li>Click <b>"Open"</b> to install the extension.</li>
   <li>The extension should now appear in the Extensions tab, and you can use it as you normally would.</li>
-  <li>Go to the Extensions tab in Chrome.</li>
-  <li>Find the extension you want to pin to the Chrome toolbar and click the pin icon next to it.</li>
+  <li>Go to the <b>Extensions tab</b> in Chrome.</li>
+  <li>Find <b>Sparxmaths Solver</b> and in the Chrome toolbar and click the <b>pin</b> icon next to it.</li>
   <li>The extension should now appear in the Chrome toolbar.</li>
-  <li>Click on the Sparxmaths Solver Icon and enter the password.</li>
+  <li>Click on the <b>Sparxmaths Solver</b> Icon and enter the password.</li>
 </ol>
 
 
 ## Terms and Conditions
 
-All code in this repository was developed by Alex lo Storto except where otherwise noted. Copyright (c) 2023, Alex lo Storto. All rights reserved. The code is licensed under the MIT license.
+All code in this repository was developed by <b>Najm Ajmal</b> & <b>Alex lo Storto</b> except where otherwise noted. Copyright (c) 2023, Alex lo Storto. All rights reserved. The code is licensed under the MIT license.
 
 ```
 FOR EDUCATIONAL PURPOSES ONLY.
