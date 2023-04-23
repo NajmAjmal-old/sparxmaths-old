@@ -30,7 +30,9 @@ fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/spa
       // END PASSWORD CHECK
 
     } else {
-      console.log('Chrome extension is not enabled, script will not continue.');
+      const switchFileContents = `The contents of switch.txt are:\n\n${text}`;
+      alert(`Chrome extension is not enabled, script will not continue.\n\n${switchFileContents}`);
+      throw new Error('Chrome extension is not enabled');
     }
   })
   .catch(error => console.log(error));
