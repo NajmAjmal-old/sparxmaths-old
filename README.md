@@ -96,4 +96,4 @@ ANY USERS. WE DO NOT TAKE ANY LIABILITY FOR ANY DAMAGES INCURRED BY THE USE
 OF THIS SOFWTARE.
 ```
 
-  Credits: https://github.com/alexlostorto/magic-notes
+  Credits: Alex Lo Storto
