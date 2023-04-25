@@ -13,6 +13,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
         // Read password from response
         const correctPassword = xhr.responseText.trim();
         
+        
         // Check if entered password matches
         if (password === correctPassword) {
           // Send message to content script to continue script
