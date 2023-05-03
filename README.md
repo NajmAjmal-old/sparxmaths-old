@@ -5,6 +5,8 @@
 We are announcing an update that the programme is no longer available to the public and that use of this programme has been discontinued. This programme is no longer available to current or new users.
 Feel free to browse, comment on, fork, and modify any code in this repository. This code is only for educational purposes, and its use is not advised.
 
+But if you would like to use it anyways, [Click here](/.README.md) for the Full download and Installation instructions
+
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
 ## Terms and Conditions
