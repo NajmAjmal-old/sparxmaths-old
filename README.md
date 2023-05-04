@@ -1,6 +1,6 @@
 <h1 align="center">Sparxmaths Solver</h1>
 
-Welcome to **Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](T&C.txt) before using the extension.
+Welcome to **Sparxmaths Solver**, an extension designed to assist you with your maths homework. Please read the **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the extension.
 
 `THIS PROGRAM HAS NO CONNECTION WITH SPARX MATHS. SPARX MATHS IS OWNED BY SPARX LTD.`
 
