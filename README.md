@@ -74,7 +74,7 @@ Install instructions
 
 ## Terms and Conditions
 
-All code in this repository was developed by <b>Najm Ajmal</b> & <b>Alex lo Storto</b> except where otherwise noted. Copyright (c) 2023, Alex lo Storto. All rights reserved. The code is licensed under the MIT license.
+All code in this repository was developed by [<b>Najm Ajmal</b>](https://github.com/NajmAjmal) & [<b>Alex lo Storto</b>](https://github.com/alexlostorto). Copyright (c) 2023, [<b>SintcoLTD</b>](https://github.com/SintcoLTD). All rights reserved. The code is licensed under the MIT license.
 
 ```
 FOR EDUCATIONAL PURPOSES ONLY.
@@ -96,4 +96,4 @@ ANY USERS. WE DO NOT TAKE ANY LIABILITY FOR ANY DAMAGES INCURRED BY THE USE
 OF THIS SOFWTARE.
 ```
 
-  Credits: Alex Lo Storto
+  Credits: [Alex Lo Storto/magic-notes](https://github.com/alexlostorto/magic-notes)
