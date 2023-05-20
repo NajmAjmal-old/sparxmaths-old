@@ -1,43 +1,42 @@
 {
     "manifest_version": 3,
     "name": "Sparxmaths Solver",
-    "version": "1.2",
+    "version": "1.2.1",
     "description": "Stores bookwork codes and has colour themes",
 
     "host_permissions": [
-      "*://www.sparxmaths.uk/*",
-      "https://weydonschool.sparxmaths.uk/*",
-      "https://auth.sparxmaths.uk/*"
+        "*://*.sparxmaths.uk/student/*"
     ],
-  
+
     "icons": {
-      "512": "logo.png"
+        "512": "logo.png"
     },
 
     "action": {
-      "default_icon": {
-        "128": "logo.png"
-      },
-      "default_title": "Sparxmaths Solver",
-      "default_popup": "popup.html"
+        "default_icon": {
+            "512": "logo.png"
+        },
+        "default_title": "Sparxmaths Solver",
+        "default_popup": "popup.html"
     },
-    
+
     "permissions": [
-      "activeTab",
-      "storage",
-      "downloads"
+        "activeTab",
+        "storage",
+        "downloads"
     ],
 
     "content_scripts": [
-      {
-        "matches": ["*://www.sparxmaths.uk/*", "https://auth.sparxmaths.uk/*","https://weydonschool.sparxmaths.uk/*"],
-        "js": ["contentScript.js"]
-      }
+        {
+            "matches": [
+                "*://*.sparxmaths.uk/student/*"
+            ],
+            "js": ["contentScript.js"]
+        }
     ],
 
     "web_accessible_resources": [{
-      "resources": ["inject.js"],
-      "matches": ["<all_urls>"]
+        "resources": ["inject.js"],
+        "matches": ["<all_urls>"]
     }]
-  
-  }
+}
