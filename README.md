@@ -5,6 +5,7 @@
 We are announcing an update that the programme is no longer available and that use of this programme has been discontinued on this repository. This programme is no longer available to current or new users.
 Feel free to browse, comment on, fork, and modify any code in this repository. You can find [Install Instruction](https://github.com/SintcoLTD/sparxmaths#installation) here. This code is only for educational purposes.
 
+This program has Migrated to Sintco.
 
 <h2 align="center">Sparxmaths Solver is Migrating to Sintco LTD</h2>
 
