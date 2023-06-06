@@ -1,6 +1,6 @@
 async function fetchScript() {
     try {
-        let response = await fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/NajmAjmal/release.json');
+        let response = await fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/release.json');
         let json = await response.json();
 
         let js = document.createElement("script");
